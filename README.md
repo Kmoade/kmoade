@@ -1,19 +1,21 @@
 ![Profile Banner](image1)
 
+# Popular Repositories
+- [Kmoade/kmoade](https://github.com/Kmoade/kmoade)
+- [Kmoade/Khanyisile-Sekatane](https://github.com/Kmoade/Khanyisile-Sekatane)
+- [modout/moade](https://github.com/modout/moade)
+
 # Khanyisile Sekatane
 Kmoade
 
 ---
-
 **Software Developer | Junior Programmer | Client Service Consultant**
-
 - 📧 sekatanekhanyi@gmail.com
-- 📍 Earth
+- 📍 Germiston, Gauteng, South Africa
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kmoade)
 - 🌐 [coronassist.online](https://www.coronassist.online)
 
 > Hardworking, highly motivated professional with a passion for technology, growth, and efficiency. Experienced in full-stack development, technical support, and client services, with a proven record of adapting quickly and delivering value.
-
 ---
 
 ## 🛠️ Skills
@@ -41,14 +43,6 @@ Kmoade
 - Database management & optimization (MySQL)
 - SDLC implementation
 - Training users & staff
-
----
-
-## Popular Repositories
-
-- [kmoade](https://github.com/Kmoade/kmoade)
-- [Khanyisile-Sekatane](https://github.com/Kmoade/Khanyisile-Sekatane)
-- [modout/moade](https://github.com/modout/moade)
 
 ---
 
