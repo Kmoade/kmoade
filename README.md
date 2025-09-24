@@ -8,7 +8,7 @@ Kmoade
 **Software Developer | Junior Programmer | Client Service Consultant**
 
 - 📧 sekatanekhanyi@gmail.com
-- 📍 Germiston, Gauteng, South Africa
+- 📍 Earth
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kmoade)
 - 🌐 [coronassist.online](https://www.coronassist.online)
 
